@@ -1,11 +1,12 @@
 site:
   title: POB Community Edition Guide
-  start_page: index.adoc
+  start_page: antora-ui-default::index.adoc
 content:
   sources:
-    - url: ./
+    - url: https://github.com/FWidm/pathofbuilding-docs
       branches: HEAD
-      start_path: .
+runtime:
+  cache_dir: ./build/cache
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
