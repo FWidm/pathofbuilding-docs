@@ -1,0 +1,18 @@
+= Development
+:experimental:
+
+== General Shortcuts:
+
+|===
+| Shortcut | Explanation
+
+
+| kbd:[Ctrl + `] | Toggle console (console supports most standard editing shortcuts)
+| kbd:[Pause] | Toggle profiling
+| kbd:[Ctrl] | Rebuild mod cache (hold key during reload / refresh)]
+| kbd:[Ctrl + Shift] | Allow tree download]
+| kbd:[Alt] | Show advanced mod breakdown / passing]
+| kbd:[F5] | Restart]
+| kbd:[F6] | Run garbage collector]
+| kbd:[Shift] | Copy export xml to clipboard (hold key during export)]
+|===

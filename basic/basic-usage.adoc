@@ -1,0 +1,66 @@
+= Basic Usage
+:experimental:
+
+== Shortcuts
+=== General Shortcuts:
+
+|===
+| Shortcut | Explanation
+
+| kbd:[Ctrl + 1] | Jump to tree tab
+| kbd:[Ctrl + 2] | Jump to skills tab
+| kbd:[Ctrl + 3] | Jump to items tab
+| kbd:[Ctrl + 4] | Jump to calcs tab
+| kbd:[Ctrl + 5] | Jump to config tab
+| kbd:[Ctrl + 6] | Jump to notes tab
+| kbd:[Ctrl + I] | Jump to import tab
+| kbd:[Ctrl + A] | Select all
+| kbd:[Ctrl + C] | Copy
+| kbd:[Ctrl + F] | Show find / search box (e.g. unique item / tree)
+| kbd:[Ctrl + N] | New build (in build selection menu)
+| kbd:[Ctrl + S] | Save build to file
+| kbd:[Ctrl + U] | Check for update
+| kbd:[Ctrl + V] / kbd:[RMB] | Paste
+| kbd:[Ctrl + W] / kbd:[Mouse 4] | Close Build (gives save prompt if unsaved)
+| kbd:[Ctrl + X] | Cut
+| kbd:[Ctrl + Y] | Redo
+| kbd:[Ctrl + Z] | Undo
+| kbd:[Ctrl + BSP] / kbd:[ Ctrl + DEL] | Faster text delete
+| kbd:[Ctrl + +] / kbd:[Ctrl + -] / kbd:[Ctrl + 0] | Zoom in / Out / Reset
+| kbd:[F1] | Open item/gem/etc in poewiki.net
+| kbd:[F2] | Rename item, set, etc.
+| kbd:[E] | On an equipped item will open it on the edit menu on the right.
+| kbd:[Ctrl + LMB] | Enable / disable gems
+| kbd:[Ctrl + RMB] | Enable / disable gems from Full DPS
+| kbd:[Mouse 4] / kbd:[Mouse 5] | Undo / Redo path respectively (in build selection menu)
+| kbd:[Shift] | While scrolling on a slider makes it 5<1> times faster
+| kbd:[Ctrl] | While scrolling on a slider makes it 5<1> times slower
+|===
+* default of 5, some scroll bars have more or less extreme modifiers to scroll speed
+
+=== Passive Tree Shortcuts:
+
+|===
+| Shortcut | Explanation
+
+| kbd:[Ctrl] | Hide tooltips while held
+| kbd:[P] | Toggle node power
+| kbd:[Ctrl + D] | Toggle stat diff display
+| kbd:[PgUp] / kbd:[PgDn] / kbd:[MWheel] | Zoom in / out (hold with shift to increase amount of zoom x 3)
+| kbd:[Ctrl + LMB] | Zoom in on mouse cursor position
+| kbd:[Hold Shift] | Enable "path trace mode"
+(highlighted nodes will stay highlighted, and will be allocated when a node is clicked on the tree)
+|===
+
+
+=== Using Colors in Texts
+
+Adding ^ and then a number or hex code before text will change the colour of the text, eg ^^77 will make the following text white until the next colour marker is set.
+
+=== Timeless Jewels
+
+[TIP]
+====
+For Militant Faith, if you don't want any nodes to change, you can just sort by devotion. As unchanged nodes add devotion, the ones with the most devotion will be the ones with unchanged nodes
+====
+

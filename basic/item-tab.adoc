@@ -1,0 +1,6 @@
+= Item Tab
+:experimental:
+
+=== Creating Items
+When creating an item either through item creator or adding an item pressing ctrl will add it to the first slot
+and ctrl+shift will add it to the second slot e.g. offhand for a weapon.
