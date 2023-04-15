@@ -1,9 +1,9 @@
 site:
   title: POB Community Edition Guide
-  start_page: antora-ui-default::index.adoc
+  start_page: pathofbuilding-docs::index.adoc
 content:
   sources:
-    - url: https://github.com/FWidm/pathofbuilding-docs
+    - url: https://github.com/FWidm/pathofbuilding-docs.git
       branches: HEAD
 runtime:
   cache_dir: ./build/cache
